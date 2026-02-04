@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="160" height="160" viewBox="0 0 160 160"
+     role="img" aria-label="Broken image placeholder (dark)">
+  <title>Broken image placeholder (dark)</title>
+  <desc>Dark theme, copyright-free SVG placeholder shown when an image fails to load.</desc>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="160" height="160" fill="#1F2328"/>
+
+  <!-- Outer dashed border -->
+  <rect x="4" y="4" width="152" height="152" rx="12" ry="12"
+        fill="none" stroke="#3A3F45" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- Inner card -->
+  <rect x="28" y="36" width="104" height="88" rx="8" ry="8"
+        fill="#2A2F36" stroke="#3F454D" stroke-width="1.5"/>
+
+  <!-- Stylized mountains -->
+  <path d="M40 112 L68 80 L92 106 L104 92 L132 120 L40 120 Z"
+        fill="#3A4048"/>
+  <circle cx="56" cy="64" r="8" fill="#4A515B"/>
+
+  <!-- Folded corner -->
+  <path d="M116 52 L132 68 L132 60 L124 52 Z"
+        fill="#343A42" stroke="#4A515B" stroke-width="1"/>
+
+  <!-- Caption -->
+  <text x="80" y="144" text-anchor="middle"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="10" fill="#8B949E">
+    image not available
+  </text>
+</svg>

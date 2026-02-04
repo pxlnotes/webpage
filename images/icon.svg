@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Author: You (project asset) – released to the public domain (CC0).
+  This SVG is free to use, modify, and redistribute without attribution.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="160" height="160" viewBox="0 0 160 160"
+     role="img" aria-label="FBX drop placeholder (dark, minimal)">
+  <title>FBX drop placeholder (dark, minimal)</title>
+  <desc>
+    Dark background with outer dotted border and three shapes:
+    darker sphere (front-left), cube (center), triangular pyramid (back-right).
+  </desc>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="160" height="160" fill="#1F2328"/>
+
+  <!-- Outer dotted border -->
+  <rect x="4" y="4" width="152" height="152" rx="12" ry="12"
+        fill="none" stroke="#3A3F45" stroke-width="2"
+        stroke-dasharray="6 6"/>
+
+  <!-- ================= defs ================= -->
+  <defs>
+    <!-- Sphere gradient -->
+    <radialGradient id="g_sphere_dark" cx="35%" cy="30%" r="70%">
+      <stop offset="0%"   stop-color="#59606A"/>
+      <stop offset="55%"  stop-color="#3A4048"/>
+      <stop offset="100%" stop-color="#2C323A"/>
+    </radialGradient>
+
+    <!-- Pyramid: base -->
+    <linearGradient id="g_tri_base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#3A4048"/>
+      <stop offset="100%" stop-color="#2C323A"/>
+    </linearGradient>
+
+    <!-- Pyramid sides (light from top-left) -->
+    <linearGradient id="g_tri_left" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#444B55"/>
+      <stop offset="100%" stop-color="#2C323A"/>
+    </linearGradient>
+
+    <linearGradient id="g_tri_right" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#3A4048"/>
+      <stop offset="100%" stop-color="#242931"/>
+    </linearGradient>
+
+    <linearGradient id="g_tri_front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#505763"/>
+      <stop offset="100%" stop-color="#323842"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ================= BACK‑RIGHT: Triangular pyramid ================= -->
+
+  <!-- ================= BACK‑RIGHT: Triangular pyramid (raised) ================= -->
+  <g transform="translate(0,-10)">
+
+    <!-- Base -->
+    <polygon points="100,106 150,106 130,50"
+             fill="url(#g_tri_base)"
+             stroke="#3A3F45"
+             stroke-width="1"
+             stroke-opacity="0.15"
+             opacity="0.9"/>
+
+    <!-- Side: A → B → P -->
+    <polygon points="100,106 150,106 130,87.33"
+             fill="url(#g_tri_front)"
+             stroke="#3A3F45"
+             stroke-width="1"
+             stroke-opacity="0.15"
+             opacity="0.95"/>
+
+    <!-- Side: B → C → P -->
+    <polygon points="150,106 130,50 130,87.33"
+             fill="url(#g_tri_right)"
+             stroke="#3A3F45"
+             stroke-width="1"
+             stroke-opacity="0.15"
+             opacity="0.95"/>
+
+    <!-- Side: C → A → P -->
+    <polygon points="130,50 100,106 130,87.33"
+             fill="url(#g_tri_left)"
+             stroke="#3A3F45"
+             stroke-width="1"
+             stroke-opacity="0.15"
+             opacity="0.95"/>
+
+  </g>
+
+
+  <!-- ================= MIDDLE: Cube ================= -->
+
+  <!-- Top face -->
+  <polygon points="80,40 112,54 80,68 48,54"
+           fill="#3A4048"/>
+
+  <!-- Left face -->
+  <polygon points="48,54 80,68 80,106 48,92"
+           fill="#323842"/>
+
+  <!-- Right face -->
+  <polygon points="112,54 80,68 80,106 112,92"
+           fill="#2C323A"/>
+
+  <!-- ================= FRONT: Dark sphere ================= -->
+
+  <circle cx="36" cy="76" r="32"
+          fill="url(#g_sphere_dark)"/>
+</svg>
