@@ -4,11 +4,11 @@
       "id": "AccelerometerSample",
       "name": "AccelerometerSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Accelerometer_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Accelerometer_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Accelerometer_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/accel1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/accel2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/accel3.png"
       ],
-      "githubUrl": "null",
+      "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/AccelerometerSample_4_0",
       "descriptionUrl": "/descriptions/Accelerometer.htm"
     },
@@ -40,7 +40,7 @@
       "id": "AvatarAnimationBlendingSample",
       "name": "AvatarAnimationBlendingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarAnimationBlending_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/AvatarAnimationBlendingSample_4_0/AvatarAnimationBlendingSample/AvatarAnimationBlending.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarAnimationBlending_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarAnimationBlending_03_small.jpg"
       ],
@@ -52,7 +52,7 @@
       "id": "AvatarMultipleAnimationsSample",
       "name": "AvatarMultipleAnimationsSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarMultipleAnimations_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/AvatarMultipleAnimationsSample_4_0/AvatarMultipleAnimationsSample/AvatarMultipleAnimation.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarMultipleAnimations_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarMultipleAnimations_03_small.jpg"
       ],
@@ -64,9 +64,9 @@
       "id": "AvatarShadows",
       "name": "AvatarShadows_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarShadows_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarShadows_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_AvatarShadows_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/avatarshadows1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/avatarshadows2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/avatarshadows3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/AvatarShadows_4_0",
@@ -80,7 +80,7 @@
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BasicEffectShader_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BasicEffectShader_03_small.jpg"
       ],
-      "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/BasicEffectShader_ARCHIVE_2_0",
+      "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/BasicEffectShader_ARCHIVE_2_0/BasicEffectShader",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/BasicEffectShader_ARCHIVE_2_0",
       "descriptionUrl": "/descriptions/BasicEffectShader_ARCHIVE.htm"
     },
@@ -100,9 +100,9 @@
       "id": "BingMapsPathFinding",
       "name": "BingMapsPathFinding_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMapsPathFinding_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMapsPathFinding_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMapsPathFinding_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingpathfinding1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingpathfinding2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingpathfinding3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/BingMapsPathFinding_4_0",
@@ -112,9 +112,9 @@
       "id": "BingMaps",
       "name": "BingMaps_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMaps_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMaps_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BingMaps_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingmaps1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingmaps2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/bingmaps3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/BingMaps_4_0",
@@ -124,8 +124,8 @@
       "id": "BitmapFontMaker",
       "name": "BitmapFontMaker_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BitmapFontMaker_01_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BitmapFontMaker_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BitmapFontMaker_01_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_BitmapFontMaker_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/BitmapFontMaker_4_0",
@@ -148,9 +148,9 @@
       "id": "BounceSample",
       "name": "BounceSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Bounce_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Bounce_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Bounce_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Bounce1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Bounce2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Bounce3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/BounceSample_4_0",
@@ -160,7 +160,7 @@
       "id": "CPUSkinningSample",
       "name": "CPUSkinningSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CPUSkinning_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CPUSkinningSample_4_0/CpuSkinningDemo/CpuSkinningDemo/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CPUSkinning_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CPUSkinning_03_small.jpg"
       ],
@@ -172,7 +172,7 @@
       "id": "CameraShake",
       "name": "CameraShake_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CameraShake_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/camera_shake.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CameraShake_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CameraShake_03_small.jpg"
       ],
@@ -184,7 +184,7 @@
       "id": "CardsStarterKit",
       "name": "CardsStarterKit_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CardsStarterKit_4_0/CardsGame/CardsGame/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_03_small.jpg"
       ],
@@ -196,7 +196,7 @@
       "id": "CardsStarterKit_VB",
       "name": "CardsStarterKit_4_0_VB",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/blackjack.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CardsStarterKit_03_small.jpg"
       ],
@@ -208,7 +208,7 @@
       "id": "CatapultWarsTrainingKit",
       "name": "CatapultWarsTrainingKit_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CatapultWarsTrainingKit_4_0/Exercises/Ex6%20-%20All%20Features/CatapultGame/CatapultGame/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_03_small.jpg"
       ],
@@ -220,9 +220,9 @@
       "id": "CatapultWars",
       "name": "CatapultWars_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CatapultWars_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CatapultWars_4_0/Source/EX1_BasicGameWithStateManagement/End/CatapultGame/CatapultGame/Background.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/catapulttk1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/catapulttk2.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/CatapultWars_4_0",
@@ -246,7 +246,7 @@
       "thumbnails": [
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ChaseCamera_01_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ChaseCamera_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ChaseCamera_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ChaseCamera_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ChaseCamera_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/ChaseCamera_4_0",
@@ -268,7 +268,7 @@
       "id": "CollisionSample",
       "name": "CollisionSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CollisionSample_4_0/Collision/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision_03_small.jpg"
       ],
@@ -292,7 +292,7 @@
       "id": "ContentManifestExtensions",
       "name": "ContentManifestExtensions_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ContentManifestExtensions_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/ContentManifestExtensions_4_0/SampleGame/SampleGame/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ContentManifestExtensions_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ContentManifestExtensions_03_small.jpg"
       ],
@@ -316,7 +316,7 @@
       "id": "CustomAvatarAnimation",
       "name": "CustomAvatarAnimation_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomAvatarAnimation_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/CustomAvatarAnimation_4_0/CustomAvatarAnimationSample/AvatarCustomAnimation.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomAvatarAnimation_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomAvatarAnimation_03_small.jpg"
       ],
@@ -342,7 +342,7 @@
       "thumbnails": [
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/custommodelanimation1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/custommodelanimation2.png",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/custommodelanimation3.png"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomModelAnimation_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/CustomModelAnimation_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/CustomModelAnimation_4_0",
@@ -388,9 +388,9 @@
       "id": "DynamicMenu",
       "name": "DynamicMenu_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_DynamicMenu_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_DynamicMenu_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_DynamicMenu_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/dynamicmenu1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/dynamicmenu2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/dynamicmenu3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/DynamicMenu_4_0",
@@ -424,7 +424,7 @@
       "id": "GSMSample_Mango",
       "name": "GSMSample_4_0_Mango",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/GSMSample_4_0_Mango/GameStateManagementSample/GameStateManagementSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_03_small.jpg"
       ],
@@ -436,7 +436,7 @@
       "id": "GSMSample_Mango_VB",
       "name": "GSMSample_4_0_Mango_VB",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/GSMSample_4_0_Mango_VB/GameStateManagementSample/GameStateManagementSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Mango_03_small.jpg"
       ],
@@ -448,7 +448,7 @@
       "id": "GSMSample_PHONE",
       "name": "GSMSample_4_0_PHONE",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Phone_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/GSMSample_4_0_PHONE/GameStateManagementSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Phone_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Phone_03_small.jpg"
       ],
@@ -460,7 +460,7 @@
       "id": "GSMSample_WIN_XBOX",
       "name": "GSMSample_4_0_WIN_XBOX",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Desktop_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/GSMSample_4_0_WIN_XBOX/GameStateManagementSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Desktop_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GSM_Desktop_03_small.jpg"
       ],
@@ -484,7 +484,7 @@
       "id": "GeolocationSample",
       "name": "GeolocationSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Geolocation_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/GeolocationSample_4_0/Geolocation/Geolocation/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Geolocation_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Geolocation_03_small.jpg"
       ],
@@ -496,7 +496,7 @@
       "id": "GesturesSample",
       "name": "GesturesSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Gestures_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/gesture1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Gestures_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Gestures_03_small.jpg"
       ],
@@ -508,8 +508,8 @@
       "id": "Graphics3DSample",
       "name": "Graphics3DSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Graphics3D_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Graphics3D_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/3Dsample0.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/3Dsample1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Graphics3D_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/Graphics3DSample_4_0",
@@ -520,8 +520,8 @@
       "id": "HeightmapCollisionSample",
       "name": "HeightmapCollisionSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HeightmapCollision_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HeightmapCollision_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision4_Heightmap_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision4_Heightmap_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HeightmapCollision_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/HeightmapCollisionSample_4_0",
@@ -532,7 +532,7 @@
       "id": "HoneycombRushTrainingKit",
       "name": "HoneycombRushTrainingKit_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/HoneycombRushTrainingKit_4_0/Sources/Ex1%20-%20Windows%20Version/HoneycombRush/HoneycombRush/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_03_small.jpg"
       ],
@@ -544,8 +544,8 @@
       "id": "HoneycombRush",
       "name": "HoneycombRush_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/honeycomb_rush.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/honeycombrush2.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_HoneycombRush_03_small.jpg"
       ],
       "githubUrl": null,
@@ -556,7 +556,7 @@
       "id": "InputReporter",
       "name": "InputReporter_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputReporter_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Input-Reporter_01_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputReporter_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputReporter_03_small.jpg"
       ],
@@ -568,7 +568,7 @@
       "id": "InputSequenceSample",
       "name": "InputSequenceSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputSequence_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/InputSequenceSample_4_0/InputSequenceSample/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputSequence_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InputSequence_03_small.jpg"
       ],
@@ -580,31 +580,31 @@
       "id": "InstancedModelSample",
       "name": "InstancedModelSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MeshInstancing_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MeshInstancing_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MeshInstancing_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/InstancedModelSample_4_0/InstancedModelSample/InstancedModelSample/InstancedModelSample.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InstancedModel_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InstancedModel_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/InstancedModelSample_4_0",
-      "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/InstancedModelSample_4_0/InstancedModelSample",
+      "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/InstancedModelSample_4_0",
       "descriptionUrl": "/descriptions/InstancedModel.htm"
     },
     {
       "id": "InverseKinematics",
       "name": "InverseKinematics_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InverseKinematics_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/InverseKinematics_4_0/InverseKinematics/InverseKinematics/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InverseKinematics_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_InverseKinematics_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/InverseKinematics_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/InverseKinematics_4_0",
-      "descriptionUrl": "/descriptions/InverseKinematics.htm"
+      "descriptionUrl": "/Documentation/InverseKinematics.htm"
     },
     {
       "id": "InvitesSample",
       "name": "InvitesSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Invites_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/InvitesSample_4_0/Invites/Invites.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Invites_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Invites_03_small.jpg"
       ],
@@ -628,7 +628,7 @@
       "id": "LocalizationSample",
       "name": "LocalizationSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Localization_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/LocalizationSample_4_0/Localization/Localization.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Localization_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Localization_03_small.jpg"
       ],
@@ -640,9 +640,9 @@
       "id": "MarbleMaze",
       "name": "MarbleMaze_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MarbleMaze_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MarbleMaze_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MarbleMaze_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/marblemaze0.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/marblemaze1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/marblemaze3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/MarbleMaze_4_0",
@@ -652,9 +652,9 @@
       "id": "MemoryMadnessLab",
       "name": "MemoryMadnessLab_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MemoryMadnessLab_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MemoryMadnessLab_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MemoryMadnessLab_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/memorymadness1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/memorymadness2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/memorymadness3.png"
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/MemoryMadnessLab_4_0",
@@ -664,7 +664,7 @@
       "id": "MicrophoneEchoSample",
       "name": "MicrophoneEchoSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MicrophoneEcho_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/microphoneecho0.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MicrophoneEcho_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_MicrophoneEcho_03_small.jpg"
       ],
@@ -676,8 +676,8 @@
       "id": "ModelImporterSample",
       "name": "ModelImporterSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelImporter_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelImporter_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomModelImporter_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_CustomModelImporter_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelImporter_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ModelImporterSample_4_0",
@@ -688,8 +688,8 @@
       "id": "ModelViewerDemo_Mango",
       "name": "ModelViewerDemo_4_0_Mango",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelViewerDemo_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelViewerDemo_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/model viewer 1_small.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/model viewer 2_small.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ModelViewerDemo_03_small.jpg"
       ],
       "githubUrl": null,
@@ -712,7 +712,7 @@
       "id": "NGSMSample",
       "name": "NGSMSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NGSM_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NetGameStateManagement_01_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NGSM_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NGSM_03_small.jpg"
       ],
@@ -748,7 +748,7 @@
       "id": "NinjAcademy",
       "name": "NinjAcademy_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NinjAcademy_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ninjacademy1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NinjAcademy_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NinjAcademy_03_small.jpg"
       ],
@@ -760,9 +760,9 @@
       "id": "NonPhotoRealisticSample",
       "name": "NonPhotoRealisticSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonPhotoRealistic_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonPhotoRealistic_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonPhotoRealistic_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonRealisticRendering_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonRealisticRendering_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NonRealisticRendering_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/NonPhotoRealisticSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/NonPhotoRealisticSample_4_0",
@@ -772,9 +772,9 @@
       "id": "NormalMappingSample",
       "name": "NormalMappingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMapping_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMapping_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMapping_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMappingEffect_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMappingEffect_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_NormalMappingEffect_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/NormalMappingSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/NormalMappingSample_4_0",
@@ -784,7 +784,7 @@
       "id": "ObjectPlacementOnAvatarSample",
       "name": "ObjectPlacementOnAvatarSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ObjectPlacementOnAvatar_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/ObjectPlacementOnAvatarSample_4_0/ObjectPlacementOnAvatar/AvatarObjectPlacement.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ObjectPlacementOnAvatar_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ObjectPlacementOnAvatar_03_small.jpg"
       ],
@@ -796,7 +796,7 @@
       "id": "Orientation",
       "name": "Orientation_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Orientation_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/Orientation_4_0/OrientationSample/OrientationSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Orientation_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Orientation_03_small.jpg"
       ],
@@ -808,7 +808,7 @@
       "id": "PaddleBattle_Mango",
       "name": "PaddleBattle_4_0_Mango",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/PaddleBattle_4_0_Mango/PaddleBattle/PaddleBattle/PaddleBattle/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_03_small.jpg"
       ],
@@ -820,7 +820,7 @@
       "id": "PaddleBattle_Mango_VB",
       "name": "PaddleBattle_4_0_Mango_VB",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/PaddleBattle_4_0_Mango_VB/PaddleBattle_4_0_Mango_VB/PaddleBattle/PaddleBattle/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PaddleBattle_03_small.jpg"
       ],
@@ -832,8 +832,8 @@
       "id": "ParticleSample",
       "name": "ParticleSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ParticleSample_4_0",
@@ -844,7 +844,7 @@
       "id": "Particles2DPipeline",
       "name": "Particles2DPipeline_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles2DPipeline_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/particlespipeline.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles2DPipeline_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles2DPipeline_03_small.jpg"
       ],
@@ -856,9 +856,9 @@
       "id": "Particles3DSample",
       "name": "Particles3DSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles3D_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles3D_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particles3D_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/Particles3DSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/Particles3DSample_4_0",
@@ -868,7 +868,7 @@
       "id": "PathDrawing",
       "name": "PathDrawing_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PathDrawing_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/path_drawing.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PathDrawing_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PathDrawing_03_small.jpg"
       ],
@@ -880,9 +880,9 @@
       "id": "Pathfinding",
       "name": "Pathfinding_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pathfinding_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pathfinding_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pathfinding_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/pathfinding0.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/pathfinding1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/pathfinding2.png"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/Pathfinding_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/Pathfinding_4_0",
@@ -892,8 +892,8 @@
       "id": "PeerToPeerSample",
       "name": "PeerToPeerSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PeerToPeer_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PeerToPeer_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Peer2Peer_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Peer2Peer_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PeerToPeer_03_small.jpg"
       ],
       "githubUrl": null,
@@ -904,8 +904,8 @@
       "id": "PerPixelCollisionSample",
       "name": "PerPixelCollisionSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelCollision_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelCollision_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision2_PerPixel_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision2_PerPixel_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelCollision_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/PerPixelCollisionSample_4_0",
@@ -916,8 +916,8 @@
       "id": "PerPixelLightingSample",
       "name": "PerPixelLightingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelLighting_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelLighting_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Shader3_PerPixelLighting_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Shader3_PerPixelLighting_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerPixelLighting_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/PerPixelLightingSample_4_0",
@@ -928,8 +928,8 @@
       "id": "PerformanceMeasuringSample",
       "name": "PerformanceMeasuringSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceMeasuring_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceMeasuring_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/performanceSample1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/performanceSample2.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceMeasuring_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/PerformanceMeasuringSample_4_0",
@@ -940,8 +940,8 @@
       "id": "PerformanceUtility",
       "name": "PerformanceUtility_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceUtility_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceUtility_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/PerformanceUtility_4_0/PerformanceUtility/PerformanceUtility/GameThumbnail.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceUtility_02_small.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PerformanceUtility_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/PerformanceUtility_4_0",
@@ -978,7 +978,7 @@
       "thumbnails": [
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/platformer1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/platformer2.png",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/platformer3.png"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Platformer_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/Platformer_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/Platformer_4_0",
@@ -988,7 +988,7 @@
       "id": "Primitives3DSample",
       "name": "Primitives3DSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Primitives3D_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/Primitives3DSample_4_0/Primitives3D/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Primitives3D_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Primitives3D_03_small.jpg"
       ],
@@ -1001,8 +1001,8 @@
       "name": "PrimitivesSample_4_0",
       "thumbnails": [
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pritives_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pritives_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Pritives_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Primitives_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Primitives_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/PrimitivesSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/PrimitivesSample_4_0",
@@ -1012,8 +1012,8 @@
       "id": "PushNotificationsSample",
       "name": "PushNotificationsSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PushNotifications_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PushNotifications_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/pushnot0.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/pushnot1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PushNotifications_03_small.jpg"
       ],
       "githubUrl": null,
@@ -1036,7 +1036,7 @@
       "id": "ReachGraphicsDemo",
       "name": "ReachGraphicsDemo_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ReachGraphicsDemo_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/ReachGraphicsDemo_4_0/ReachGraphicsDemo/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ReachGraphicsDemo_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ReachGraphicsDemo_03_small.jpg"
       ],
@@ -1048,8 +1048,8 @@
       "id": "RectangleCollisionSample",
       "name": "RectangleCollisionSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RectangleCollision_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RectangleCollision_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision1_2D_Rectangle_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision1_2D_Rectangle_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RectangleCollision_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/RectangleCollisionSample_4_0",
@@ -1060,7 +1060,7 @@
       "id": "RedistributableTTFs_ARCHIVE",
       "name": "RedistributableTTFs_ARCHIVE_3_1",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RedistributableTTFs_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/redistfonts.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RedistributableTTFs_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RedistributableTTFs_03_small.jpg"
       ],
@@ -1072,8 +1072,8 @@
       "id": "RimLighting",
       "name": "RimLighting_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RimLighting_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RimLighting_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/rimlighting1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/rimlighting2.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RimLighting_03_small.jpg"
       ],
       "githubUrl": null,
@@ -1084,9 +1084,9 @@
       "id": "RobotGame_ARCHIVE",
       "name": "RobotGame_ARCHIVE_2_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RobotGame_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RobotGame_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RobotGame_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ss1_small.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ss2_small.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ss3_small.png"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/RobotGame_ARCHIVE_2_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/RobotGame_ARCHIVE_2_0",
@@ -1096,7 +1096,7 @@
       "id": "RolePlayingGame_Phone",
       "name": "RolePlayingGame_4_0_Phone",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RolePlayingGame_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/RolePlayingGame_4_0_Phone/RolePlayingGame/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RolePlayingGame_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_RolePlayingGame_03_small.jpg"
       ],
@@ -1120,7 +1120,7 @@
       "id": "SafeAreaSample",
       "name": "SafeAreaSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SafeArea_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SafeAreaSample_4_0/SafeArea/SafeArea.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SafeArea_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SafeArea_03_small.jpg"
       ],
@@ -1132,7 +1132,7 @@
       "id": "SavingEmbeddedImages",
       "name": "SavingEmbeddedImages_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SavingEmbeddedImages_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SavingEmbeddedImages_4_0/SavingEmbeddedImages/TileBackground.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SavingEmbeddedImages_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SavingEmbeddedImages_03_small.jpg"
       ],
@@ -1144,9 +1144,9 @@
       "id": "ShadowMappingSample",
       "name": "ShadowMappingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_01_small.JPG",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_02_small.JPG",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShadowMapping_03_small.JPG"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ShadowMappingSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/ShadowMappingSample_4_0",
@@ -1158,7 +1158,7 @@
       "thumbnails": [
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ShapeRendering1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ShapeRendering2.png",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/ShapeRendering3.png"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShapeRendering_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ShapeRenderingSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/ShapeRenderingSample_4_0",
@@ -1180,9 +1180,9 @@
       "id": "ShipGame",
       "name": "ShipGame_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShipGame_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShipGame_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_ShipGame_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/shipgame1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/shipgame2.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/shipgame3.png"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/ShipGame_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/ShipGame_4_0",
@@ -1192,7 +1192,7 @@
       "id": "SilverlightMicrophoneSample",
       "name": "SilverlightMicrophoneSample",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SilverlightMicrophone_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SilverlightMicrophoneSample/SilverlightMicrophoneSample/SilverlightMicrophoneSample/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SilverlightMicrophone_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SilverlightMicrophone_03_small.jpg"
       ],
@@ -1204,8 +1204,8 @@
       "id": "SimpleAnimation",
       "name": "SimpleAnimation_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SimpleAnimation_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SimpleAnimation_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_simple_animation_01_small.JPG",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_simple_animation_02_small.JPG",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SimpleAnimation_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/SimpleAnimation_4_0",
@@ -1216,7 +1216,7 @@
       "id": "SkinnedModelExtensions",
       "name": "SkinnedModelExtensions_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SkinnedModelExtensions_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SkinnedModelExtensions_4_0/SkinningSample/SkinningSample.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SkinnedModelExtensions_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SkinnedModelExtensions_03_small.jpg"
       ],
@@ -1240,9 +1240,9 @@
       "id": "SnowShovelSample",
       "name": "SnowShovelSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SnowShovel_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SnowShovel_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SnowShovel_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/snowshovel1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/snowshovel1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/snowshovel1.png"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/SnowShovelSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/SnowShovelSample_4_0",
@@ -1252,7 +1252,7 @@
       "id": "SoccerPitchSample",
       "name": "SoccerPitchSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoccerPitch_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SoccerPitchSample_4_0/SoccerPitch/SoccerPitch/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoccerPitch_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoccerPitch_03_small.jpg"
       ],
@@ -1264,7 +1264,7 @@
       "id": "SoundAndMusic",
       "name": "SoundAndMusic_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoundAndMusic_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/musicAndSoundSample1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoundAndMusic_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SoundAndMusic_03_small.jpg"
       ],
@@ -1276,7 +1276,7 @@
       "id": "SpaceShooter_ARCHIVE",
       "name": "SpaceShooter_ARCHIVE_3_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpaceShooter_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/SpaceShooter_ARCHIVE_3_0/SpaceShooter/SpaceShooter/GameThumbnail.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpaceShooter_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpaceShooter_03_small.jpg"
       ],
@@ -1288,9 +1288,9 @@
       "id": "Spacewar",
       "name": "Spacewar_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Spacewar_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Spacewar_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Spacewar_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Spacewar1_thumb.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Spacewar2_thumb.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/Spacewar4_thumb.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/Spacewar_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/Spacewar_4_0",
@@ -1300,7 +1300,7 @@
       "id": "SplitScreenSample",
       "name": "SplitScreenSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SplitScreen_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/splitscreen.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SplitScreen_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SplitScreen_03_small.jpg"
       ],
@@ -1336,7 +1336,7 @@
       "id": "SpriteSheetSample",
       "name": "SpriteSheetSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpriteSheet_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpriteSheet_01_small.JPG",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpriteSheet_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_SpriteSheet_03_small.jpg"
       ],
@@ -1360,8 +1360,8 @@
       "id": "TankOnAHeightMapSample",
       "name": "TankOnAHeightMapSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TankOnAHeightMap_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TankOnAHeightMap_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision5_HeightmapNormals_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision5_HeightmapNormals_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TankOnAHeightMap_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/TankOnAHeightMapSample_4_0",
@@ -1384,8 +1384,8 @@
       "id": "TicTacToe",
       "name": "TicTacToe_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TicTacToe_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TicTacToe_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/tictactoe1.png",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/tictactoe2.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TicTacToe_03_small.jpg"
       ],
       "githubUrl": null,
@@ -1408,7 +1408,7 @@
       "id": "TiltPerspective",
       "name": "TiltPerspective_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TiltPerspective_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/tiltperspective.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TiltPerspective_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TiltPerspective_03_small.jpg"
       ],
@@ -1432,7 +1432,7 @@
       "id": "TouchThumbsticksSample",
       "name": "TouchThumbsticksSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TouchThumbsticks_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/TouchThumbsticksSample_4_0/TouchThumbSticks/TouchThumbSticks/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TouchThumbsticks_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TouchThumbsticks_03_small.jpg"
       ],
@@ -1444,9 +1444,9 @@
       "id": "TransformedCollisionSample",
       "name": "TransformedCollisionSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TransformedCollision_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TransformedCollision_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TransformedCollision_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision3_2D_Transform_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision3_2D_Transform_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Collision3_2D_Transform_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/TransformedCollisionSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/TransformedCollisionSample_4_0",
@@ -1456,9 +1456,9 @@
       "id": "TrianglePickingSample",
       "name": "TrianglePickingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TrianglePicking_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TrianglePicking_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_TrianglePicking_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PickingTriangle_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PickingTriangle_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_PickingTriangle_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/TrianglePickingSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/TrianglePickingSample_4_0",
@@ -1468,7 +1468,7 @@
       "id": "UISample",
       "name": "UISample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UISample_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/uisample.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UISample_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UISample_03_small.jpg"
       ],
@@ -1480,7 +1480,7 @@
       "id": "UnitConverterStarterKit",
       "name": "UnitConverterStarterKit",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UnitConverterStarterKit_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Samples/UnitConverterStarterKit/UnitConverterStarterKit/UnitConverter/Background.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UnitConverterStarterKit_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_UnitConverterStarterKit_03_small.jpg"
       ],
@@ -1504,9 +1504,9 @@
       "id": "VertexLightingSample",
       "name": "VertexLightingSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_VertexLighting_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_VertexLighting_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_VertexLighting_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Shader1_VertexLighting_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Shader1_VertexLighting_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Shader1_VertexLighting_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/VertexLightingSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/VertexLightingSample_4_0",
@@ -1516,7 +1516,7 @@
       "id": "WP7MusicManagement",
       "name": "WP7MusicManagement_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WP7MusicManagement_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/musicAndSoundSample1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WP7MusicManagement_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WP7MusicManagement_03_small.jpg"
       ],
@@ -1528,9 +1528,9 @@
       "id": "WaypointSample",
       "name": "WaypointSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Waypoint_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Waypoint_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Waypoint_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/devEd_waypoints_small2.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/devEd_waypoints_small3.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/devEd_waypoints_small4.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/WaypointSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/WaypointSample_4_0",
@@ -1540,9 +1540,9 @@
       "id": "WinFormsContentSample",
       "name": "WinFormsContentSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsContent_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsContent_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsContent_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Winform-ContentLoader_01_small.JPG",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Winform-ContentLoader_01_small.JPG",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Winform-ContentLoader_01_small.JPG"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/WinFormsContentSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/WinFormsContentSample_4_0",
@@ -1552,9 +1552,9 @@
       "id": "WinFormsGraphicsSample",
       "name": "WinFormsGraphicsSample_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsGraphics_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsGraphics_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinFormsGraphics_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinForms1_GraphicsDevice_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinForms1_GraphicsDevice_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_WinForms1_GraphicsDevice_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/WinFormsGraphicsSample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/WinFormsGraphicsSample_4_0",
@@ -1576,9 +1576,9 @@
       "id": "XmlParticles",
       "name": "XmlParticles_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_XmlParticles_01_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_XmlParticles_02_small.jpg",
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_XmlParticles_03_small.jpg"
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_02_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Particle3D_03_small.jpg"
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/XmlParticles_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/XmlParticles_4_0",
@@ -1600,7 +1600,7 @@
       "id": "Yacht",
       "name": "Yacht_4_0",
       "thumbnails": [
-        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Yacht_01_small.jpg",
+        "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/yacht1.png",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Yacht_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_Yacht_03_small.jpg"
       ],
