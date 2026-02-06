@@ -476,7 +476,7 @@
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GeneratedGeometry_02_small.jpg",
         "https://raw.githubusercontent.com/SimonDarksideJ/XNAGameStudio/archive/Images/XNA_GeneratedGeometry_03_small.jpg"
       ],
-      "githubUrl": null,
+      "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/GeneratedGeometrySample_4_0",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/GeneratedGeometrySample_4_0",
       "descriptionUrl": "/descriptions/GeneratedGeometry.htm"
     },
