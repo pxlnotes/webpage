@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Content.Build.Tool</title>
+
+  <style>
+    body {
+      background: #FFFFFF;
+      color: #000000;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: medium;
+      margin: 0;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 130%;
+      color: #003399;
+      margin-top: 18px;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 125%;
+      margin-top: 16px;
+      margin-bottom: 6px;
+      font-weight: bold;
+    }
+
+    p {
+      margin-top: 0.6em;
+      margin-bottom: 0.6em;
+    }
+
+    div#mainSection {
+      font-size: 70%;
+      width: 100%;
+    }
+
+    div#mainBody {
+      font-size: 90%;
+      margin-left: 15px;
+      margin-top: 10px;
+      padding-bottom: 20px;
+    }
+
+    table {
+      width: 98%;
+      background: #ffffff;
+      margin-top: 10px;
+      border-collapse: collapse;
+    }
+
+    table th {
+      padding: 6px;
+      background: #EFEFF7;
+      text-align: left;
+      font-size: 70%;
+      border-bottom: 1px solid #C8CDDE;
+    }
+
+    table td {
+      padding: 6px;
+      background: #F7F7FF;
+      font-size: 70%;
+      border-bottom: 1px solid #D5D5D3;
+      vertical-align: top;
+    }
+
+    code {
+      font-family: Consolas, Courier New, monospace;
+      font-size: 105%;
+      color: #000066;
+    }
+
+    div.footer {
+      margin-top: 30px;
+      padding-bottom: 12px;
+      text-align: center;
+      font-size: 76%;
+      color: #0000FF;
+    }
+
+    a {
+      color: #0000FF;
+      text-decoration: underline;
+    }
+
+    ul {
+      margin-top: 0.6em;
+      margin-bottom: 0.6em;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mainSection">
+    <div id="mainBody">
+
+      <h1>Content.Build.Tool Summary</h1>
+
+      <p>
+        This repository contains a modernized <strong>Content Build Tool</strong> intended to support classic
+        XNA-era content workflows in modern environments. In particular, it targets the long-standing problem that
+        the original XNA Game Studio content pipeline integration was tightly coupled to older Visual Studio/MSBuild
+        toolchains and is not directly usable in current setups.
+      </p>
+
+      <h2>Why This Tool Exists</h2>
+
+      <p>
+        In XNA (including XNA 4.0), runtime loading uses <code>ContentManager</code> and expects prebuilt
+        <code>.xnb</code> content. Traditionally Visual Studio built this content through a separate
+        <code>.contentproj</code> project using importer/processor pairs to convert source assets (textures, audio,
+        fonts, models, etc.) into XNB outputs.
+      </p>
+
+      <p>
+        On modern IDEs and toolchains that original integration is not available. <strong>Content.Build.Tool</strong>
+        addresses this gap by providing a dedicated build tool approach that can be used alongside modern development
+        environments (e.g. Visual Studio 2022) while preserving the XNA-style content pipeline concept.
+      </p>
+
+      <h2>What It Does (High-Level)</h2>
+
+      <table>
+        <tr>
+          <th>Area</th>
+          <th>Summary</th>
+        </tr>
+        <tr>
+          <td>Content project input</td>
+          <td>
+            Works with XNA-style content project structure and content build concepts (commonly centered around
+            <code>.contentproj</code> and build-time processing)
+          </td>
+        </tr>
+        <tr>
+          <td>Asset processing pipeline</td>
+          <td>
+            Supports the classic idea of importers and processors that transform source assets into runtime-ready
+            outputs (typically <code>.xnb</code>)
+          </td>
+        </tr>
+        <tr>
+          <td>Modern toolchain compatibility</td>
+          <td>
+            Designed to fit modern development workflows where the original XNA Game Studio integration is not present
+          </td>
+        </tr>        
+      </table>
+
+      <h2>How It Fits Into XNA Workflow</h2>
+
+      <p>
+        Conceptually this tool sits at the same point in the pipeline where XNA’s content build used to run:
+      </p>
+
+      <ul>
+        <li><strong>Input:</strong> source assets + content project definitions</li>
+        <li><strong>Build step:</strong> importer/processor conversions</li>
+        <li><strong>Output:</strong> runtime-ready content (commonly <code>.xnb</code>)</li>
+        <li><strong>Runtime:</strong> load the outputs through the game’s content loading mechanisms</li>
+      </ul>
+
+      <p>
+        This is especially useful for projects that want to keep XNA-era workflows while operating in modern IDEs and
+        frameworks (including MonoGame-based rebuilds)
+      </p>
+
+      <h2>Notes and Expectations</h2>
+
+      <p>
+        When no <code>.contentproj</code> file is present the tool does not attempt to
+        infer content structure automatically. Instead, it falls back to an explicit
+        configuration-driven build process defined in <code>app.config</code>.
+      </p>
+
+      <p>
+        In this mode the build tool scans the content directory and processes only
+        those files whose extensions are explicitly mapped to importer and processor
+        pairs via <code>appSettings</code> entries.
+      </p>
+
+      <p>
+        Each supported file type is declared using an <code>extension.&lt;ext&gt;</code>
+        key, where the value specifies the importer and processor to be used during
+        the build step:
+      </p>
+
+      <pre><code>&lt;add key="extension.png" value="TextureImporter;TextureProcessor" /&gt;
+&lt;add key="extension.fbx" value="FbxImporter;ModelProcessor" /&gt;
+&lt;add key="extension.fx" value="EffectImporter;EffectProcessor" /&gt;
+</code></pre>
+
+      <p>
+        Files with extensions not listed in the configuration are ignored entirely.
+        This ensures that only explicitly supported asset types are processed, closely
+        mirroring the explicit nature of XNA's original content pipeline.
+      </p>
+
+      <p>
+        Platform, profile and build configuration are defined through
+        <code>app.config</code> using standard XNA semantics. The default configuration
+        targets the <strong>Reach</strong> profile which reflects the baseline setup
+        used by most XNA projects.
+      </p>
+
+      <p>
+        Projects that depend on advanced rendering features—such as custom
+        <code>.fx</code> effects—are expected to switch the profile to
+        <strong>HiDef</strong> consistent with the original XNA content pipeline
+        requirements.
+      </p>
+
+      <p>
+        When a build error occurs the tool returns the same error messages that would
+        have been shown by the XNA content build step. In addition a separate error
+        log file is written containing extended diagnostic details for post-build
+        analysis.
+      </p>
+
+    </div>
+
+    <div class="footer">
+      <p>
+        <br />
+        <!-- Content.Build.Tool summary page -->
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>

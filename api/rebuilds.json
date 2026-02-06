@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "id": "ContentBuildTool",
+      "name": "Content Builder Tool",
+      "thumbnails": [
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ContentProject0.png",
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ContentProject1.png",
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ContentProject2.png"
+      ],
+      "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Content.Build.Tool",      
+      "descriptionUrl": "/descriptions/ContentBuildTool.htm"
+    }    
+  ]
+}
