@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Visual Studio 2022 Project Template</title>
+
+  <style>
+    body {
+      background: #FFFFFF;
+      color: #000000;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: medium;
+      margin: 0;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 130%;
+      color: #003399;
+      margin-top: 18px;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 125%;
+      margin-top: 16px;
+      margin-bottom: 6px;
+      font-weight: bold;
+    }
+
+    p {
+      margin-top: 0.6em;
+      margin-bottom: 0.6em;
+    }
+
+    div#mainSection {
+      font-size: 70%;
+      width: 100%;
+    }
+
+    div#mainBody {
+      font-size: 90%;
+      margin-left: 15px;
+      margin-top: 10px;
+      padding-bottom: 20px;
+    }
+
+    table {
+      width: 98%;
+      background: #ffffff;
+      margin-top: 10px;
+      border-collapse: collapse;
+    }
+
+    table th {
+      padding: 6px;
+      background: #EFEFF7;
+      text-align: left;
+      font-size: 70%;
+      border-bottom: 1px solid #C8CDDE;
+    }
+
+    table td {
+      padding: 6px;
+      background: #F7F7FF;
+      font-size: 70%;
+      border-bottom: 1px solid #D5D5D3;
+      vertical-align: top;
+    }
+
+    code {
+      font-family: Consolas, Courier New, monospace;
+      font-size: 105%;
+      color: #000066;
+    }
+
+    div.footer {
+      margin-top: 30px;
+      padding-bottom: 12px;
+      text-align: center;
+      font-size: 76%;
+      color: #0000FF;
+    }
+
+    a {
+      color: #0000FF;
+      text-decoration: underline;
+    }
+
+    ul {
+      margin-top: 0.6em;
+      margin-bottom: 0.6em;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mainSection">
+    <div id="mainBody">
+
+      <h1>Visual Studio 2022 Project Template Summary</h1>
+
+            <p>
+        This page documents the minimum steps required to make legacy XNA projects
+        runnable in a modern development environment using Visual Studio 2022.
+        The focus is on restoring a working workflow rather than recreating the
+        original XNA Game Studio experience.
+      </p>
+
+      <h2>Prerequisite: .NET Framework 4.0</h2>
+
+      <p>
+        XNA Framework 4.0 targets the <code>.NET Framework 4.0</code> runtime.
+        Before any project can be built or executed, this runtime must be available
+        on the system.
+      </p>
+
+      <p>
+        On modern Windows versions, this typically means ensuring that the
+        .NET Framework 4.0 (or a compatible in-place update) is installed and
+        properly registered. Without this prerequisite, XNA-based projects
+        cannot run regardless of Visual Studio version.
+      </p>
+
+      <h2>Installing Legacy XNA Components</h2>
+
+      <p>
+        Once the runtime requirement is satisfied, the legacy XNA Game Studio
+        components must be installed. These provide the original XNA Framework
+        assemblies that existing projects depend on.
+      </p>
+
+      <p>
+        An archived version of XNA Game Studio can be found here:
+      </p>
+
+      <p>
+        <a href="https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/MXA Studio" target="_blank">
+          XNA Game Studio 4.0.6
+        </a>
+      </p>
+
+      <p>
+        Out of the box, the installer does not recognize Visual Studio 2022 as a
+        supported host environment. A small modification is required to enable
+        installation.
+      </p>
+
+      <h2>Updating the VSIX for Visual Studio 2022</h2>
+
+      <p>
+        XNA Game Studio integrates into Visual Studio using a <code>.vsix</code>
+        extension. A VSIX file is effectively a ZIP archive containing metadata
+        and extension resources.
+      </p>
+
+      <p>
+        To enable installation into Visual Studio 2022 the extension manifest
+        must be updated:
+      </p>
+
+      <ol>
+        <li>Rename the <code>.vsix</code> file to <code>.zip</code></li>
+        <li>Extract the archive</li>
+        <li>Locate <code>extension.vsixmanifest</code></li>
+        <li>Open the file in a text editor</li>
+        <li>
+          Update the supported Visual Studio version range to include version
+          <strong>17.x</strong>
+        </li>
+      </ol>
+
+      <p>
+        The installation target should include the following version range:
+      </p>
+
+      <pre><code>&lt;InstallationTarget Version="[17.0,18.0)" /&gt;</code></pre>
+
+      <p>
+        This range corresponds to Visual Studio 2022. After saving the file,
+        repackage the contents into a ZIP archive and rename it back to
+        <code>.vsix</code>.
+      </p>
+
+      <h2>Completing the Installation</h2>
+
+      <p>
+        With the modified VSIX in place the XNA Game Studio installation can
+        proceed using the standard installation process described in the original
+        documentation.
+      </p>
+
+      <p>
+        At this stage, the XNA Framework assemblies are available on the system
+        and existing projects can resolve their references correctly.
+      </p>
+
+      <h2>Adding the Visual Studio 2022 Project Template</h2>
+
+      <p>
+        Original XNA project templates are no longer provided by modern versions
+        of Visual Studio. To restore this functionality a rebuilt Visual Studio
+        2022 project template is used.
+      </p>
+
+      <p>
+        The project template can be added manually from the repository by placing
+        it into Visual Studio’s project template directory. Once installed the
+        template appears alongside the standard project templates.
+      </p>
+
+      <p>
+        New projects created using this template follow the same structure and
+        expectations as XNA-era projects, allowing existing codebases to be
+        rebuilt without structural changes.
+      </p>
+
+      <h2>Result</h2>
+
+      <p>
+        After completing these steps:
+      </p>
+
+      <ul>
+        <li>XNA projects compile and run under Visual Studio 2022</li>
+        <li>The original runtime behavior is preserved</li>
+        <li>No deprecated Visual Studio integration is required</li>
+        <li>The workflow remains stable and reproducible</li>
+      </ul>
+      
+    </div>
+
+    <div class="footer">
+      <p>        
+        Visual Studio 2022 Project Template
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>

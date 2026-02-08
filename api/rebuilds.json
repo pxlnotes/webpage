@@ -10,6 +10,17 @@
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Content.Build.Tool",      
       "descriptionUrl": "/descriptions/ContentBuildTool.htm"
+    },
+    {
+      "id": "VSProjectTemplate",
+      "name": "Visual Studio 2022 Project Template",
+      "thumbnails": [
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ProjectTemplate0.png",
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ProjectTemplate2.png",
+        "https://raw.githubusercontent.com/pxlnotes/XNAGameStudio/visual-studio-2022/Images/VS2022ProjectTemplate1.png"
+      ],
+      "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Templates/ProjectTemplates",      
+      "descriptionUrl": "/descriptions/VSProjectTemplate.htm"
     }    
   ]
 }
