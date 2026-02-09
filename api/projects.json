@@ -82,7 +82,7 @@
       ],
       "githubUrl": "https://github.com/pxlnotes/XNAGameStudio/tree/visual-studio-2022/Samples/BasicEffectShader_ARCHIVE_2_0/BasicEffectShader",
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/BasicEffectShader_ARCHIVE_2_0",
-      "descriptionUrl": "/descriptions/BasicEffectShader_ARCHIVE.htm"
+      "descriptionUrl": "/BasicEffectShader/Readme.htm"
     },
     {
       "id": "BillboardSample",
@@ -334,7 +334,7 @@
       ],
       "githubUrl": null,
       "githubArchiveUrl": "https://github.com/SimonDarksideJ/XNAGameStudio/tree/archive/Samples/CustomIndeterminateProgressBarSample",
-      "descriptionUrl": "/descriptions/CustomIndeterminateProgressBar.htm"
+      "descriptionUrl": "/CustomIndeterminateProgressBarSample/readme.htm"
     },
     {
       "id": "CustomModelAnimation",
