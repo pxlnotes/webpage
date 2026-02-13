@@ -1,0 +1,47 @@
+{
+  "mainAssemblyName": "WasmHost",
+  "resources": {
+    "hash": "sha256-i2NObTW2Kaxttnvm7kliPnCCy2MXYgbnL6tc2pgk+UY=",
+    "fingerprinting": {
+      "DemoLib.d1tozl83j8.wasm": "DemoLib.wasm",
+      "System.Console.5p1fs0btin.wasm": "System.Console.wasm",
+      "System.Private.CoreLib.pj581xw65h.wasm": "System.Private.CoreLib.wasm",
+      "System.Runtime.InteropServices.JavaScript.ya7dv9l19e.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
+      "WasmHost.lea6uh45i9.wasm": "WasmHost.wasm",
+      "dotnet.native.h9594bov7n.js": "dotnet.native.js",
+      "dotnet.native.uyih1luy4n.wasm": "dotnet.native.wasm",
+      "dotnet.js": "dotnet.js",
+      "dotnet.runtime.7laf4z0i7i.js": "dotnet.runtime.js",
+      "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
+      "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
+      "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat"
+    },
+    "jsModuleNative": {
+      "dotnet.native.h9594bov7n.js": "sha256-5VLIG8+uLf9JULjTf1QQzDpKdT+vqYMokzo5V2howDE="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.7laf4z0i7i.js": "sha256-W1NVCHdXLsZwmcxPLLatkJOSnfn1UNne6uSpSi63ozM="
+    },
+    "wasmNative": {
+      "dotnet.native.uyih1luy4n.wasm": "sha256-Ru9tI7vVuPZDErm3VC3pbIHU/eZ0EB576l4HjJZTl54="
+    },
+    "icu": {
+      "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.tptq2av103.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "coreAssembly": {
+      "System.Private.CoreLib.pj581xw65h.wasm": "sha256-FRP/KC2Q+JZI5aKeu7wD6sYxYstjGpgqnpIdpzDCVNY=",
+      "System.Runtime.InteropServices.JavaScript.ya7dv9l19e.wasm": "sha256-xsZwmEIbNm3sbiJeqQJ88pHglvTAnywfi/4b7+I99ew="
+    },
+    "assembly": {
+      "DemoLib.d1tozl83j8.wasm": "sha256-AWAo+c9OrHQCoJHdgr+sYTcYl00hVlddYn8tHlCIJ6A=",
+      "System.Console.5p1fs0btin.wasm": "sha256-WUKpZ26+sS9HaA1/a4oD5HCa9rRUNxSLOTLhNczO5p4=",
+      "WasmHost.lea6uh45i9.wasm": "sha256-LbxTPLxzezl3mydeV5KOeTOZf9j/zErE3ePCT6n+nJw="
+    }
+  },
+  "cacheBootResources": true,
+  "debugLevel": 0,
+  "linkerEnabled": true,
+  "globalizationMode": "sharded"
+}
